@@ -87,13 +87,16 @@
     rgba(0, 0, 0, 0.8) 100%);
 }
 .contener{
+    position: relative;
     color: rgb(255,255,255);
     text-align: center;
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-weight: bold;
     padding-top: 200px;
    
 }
 .itens-contener{
+    position: relative;
     color: #ffffff;
     text-align: center;
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
